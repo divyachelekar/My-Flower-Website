@@ -1,0 +1,252 @@
+body{
+    text-align: center;
+   
+   
+   
+    
+}
+#f1 img{
+  text-align: left;
+    border-style: double; 
+    border-color: aquamarine;
+    border-width: 20px;
+}
+#f2 img{
+    margin-left: 470px;
+    border-style: double; 
+    border-color: aquamarine;
+    border-width: 20px; 
+}
+#f3 img{
+    text-align: left;
+    border-style: double; 
+    border-color: aquamarine;
+    border-width: 20px; 
+}
+#f4 img{
+    margin-left: 470px;
+    border-style: double; 
+    border-color: aquamarine;
+    border-width: 20px;  
+}
+#f5 img{
+   text-align: left;
+    border-style: double; 
+    border-color: aquamarine;
+    border-width: 20px;   
+}
+#f6 img{
+    margin-left: 470px;
+    border-style: double; 
+    border-color: aquamarine;
+    border-width: 20px;  
+}
+#f7 img{
+   text-align: left;
+    border-style: double; 
+    border-color: aquamarine;
+    border-width: 20px;  
+}
+
+#f8 img{
+    margin-left: 470px;
+    border-style: double; 
+    border-color: aquamarine;
+    border-width: 20px;  
+}
+#f9 img{
+    text-align: right;
+    border-style: double; 
+    border-color: aquamarine;
+    border-width: 20px;
+}
+#f10 img{
+    margin-left: 470px;
+    border-style: double; 
+    border-color: aquamarine;
+    border-width: 20px;
+}
+#f1{
+    text-align:left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: cadetblue;
+}
+
+
+#f2{
+    text-align:right;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: cadetblue;
+}
+#f3{
+    text-align:left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: cadetblue;
+}
+#f4{
+    text-align:right;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: cadetblue;
+}
+#f5{
+    text-align:left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: cadetblue;
+}
+#f6{
+    text-align:right;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: cadetblue;
+}
+#f7{
+    text-align:left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: cadetblue;
+}
+#f8{
+    text-align:right;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: cadetblue;
+}
+#f9{
+    text-align:left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: cadetblue;
+}
+#f10{
+    text-align:right;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: cadetblue;
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    font-size: 30px;
+    color:rgb(157, 226, 21);
+}
+#main{
+    background-color: cadetblue;
+    padding-top: 50px;
+    
+   
+    
+}
+
+#main2{
+    border-style: dotted;
+    border-color: yellowgreen;
+    border-width: 10px;   
+}
+.p1{
+    color: white;
+    font-size: 15px;
+    font-family:cursive;
+}
+
+.carousel-inner img{
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 20px;
+}
+.carousel-inner{
+    text-align: center;
+   
+}
+
+.my_nav_bar{
+    position: fixed;
+    width: 100%;
+    margin-bottom: 30px;
+  
+}
+#f1 p{
+    text-align: left;
+}
+#f2 p{
+    text-align: right;
+}
+#f3 p{
+    text-align: left;
+}
+#f4 p{
+    text-align: right;
+}
+#f5 p{
+    text-align: left;
+}
+#f6 p{
+    text-align: right;
+}
+#f7 p{
+    text-align: left;
+}
+#f8 p{
+    text-align: right;
+}
+#f9 p{
+    text-align: left;
+}
+#f10 p{
+    text-align: right;
+}
+
+#f1 h1{
+    text-align: left;
+}
+#f2 h1{
+    text-align: right;
+}
+#f3 h1{
+    text-align: left;
+}
+#f4 h1{
+    text-align: right;
+}
+#f5 h1{
+    text-align: left;
+}
+#f6 h1{
+    text-align: right;
+}
+#f7 h1{
+    text-align: left;
+}
+#f8 h1{
+    text-align: right;
+}
+#f9 h1{
+    text-align: left;
+}
+#f10 h1{
+    text-align: right;
+}
